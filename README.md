@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=Lê%20Đức%20Thịnh&fontSize=50&fontAlignY=35&animation=twinkling" alt="Lê Đức Thịnh"/>](https://github.com/leducthinh203)
+[<img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&weight=600&size=38&duration=4000&pause=100&color=FF6B6B&background=0D1117&center=true&vCenter=true&width=800&height=200&lines=━━━━━━━━━━━━━━━━━━━━;❤️+LÊ+ĐỨC+THỊNH+❤️;━━━━━━━━━━━━━━━━━━━━" alt="Lê Đức Thịnh"/>](https://github.com/leducthinh203)
 
   <h1>🌌 Welcome to my Github!</h1>
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
