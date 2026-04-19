@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Hello%2C%20L%C3%AA%20%C4%90%E1%BB%A9c%20Th%E1%BB%8Bnh-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Lê Đức Thịnh" title="👋 Hi there! I'm Lê Đức Thịnh"/>](https://github.com/leducthinh203)
+
+![visitors](https://vbr.nathanchung.dev/badge?page_id=leducthinh203.leducthinh203&color=00cf00)
 
   <h1>🌌 Welcome to my Github!</h1>
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
