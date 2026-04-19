@@ -4,15 +4,15 @@
 </div>
 
 <div align="center">
-  <p>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
     <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied!'); return false;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" style="vertical-align: middle;" />
     </a>
-    <span style="font-size: 200px; font-weight: bold; vertical-align: middle;">Welcome to my world</span>
+    <h1 style="margin: 0; display: inline-block; vertical-align: middle;">Welcome to my world</h1>
     <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied!'); return false;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" style="vertical-align: middle;" />
     </a>
-  </p>
+  </div>
   
   <h2>💻 Code with &lt;/&gt;</h2>
   
