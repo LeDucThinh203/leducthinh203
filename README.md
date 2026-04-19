@@ -30,6 +30,20 @@
 ![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-informational?style=flat&logo=microsoftsqlserver&color=CC2927)
 ![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&color=2496ED)
 
+![HTML5](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&color=E34F26)
+![Bootstrap](https://img.shields.io/badge/CSS-Bootstrap-informational?style=flat&logo=bootstrap&color=7952B3)
+![Tailwind CSS](https://img.shields.io/badge/CSS-Tailwind-informational?style=flat&logo=tailwindcss&color=06B6D4)
+
+![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-informational?style=flat&logo=github&color=181717)
+![GitLab](https://img.shields.io/badge/Platform-GitLab-informational?style=flat&logo=gitlab&color=FC6D26)
+
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&color=007ACC)
+![GitHub Copilot](https://img.shields.io/badge/AI-Copilot-informational?style=flat&logo=githubcopilot&color=000000)
+
+![Jira](https://img.shields.io/badge/Management-Jira-informational?style=flat&logo=jira&color=0052CC)
+![Trello](https://img.shields.io/badge/Management-Trello-informational?style=flat&logo=trello&color=0079BF)
+
 ![Netlify](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Render](https://img.shields.io/badge/Deployment-Render-informational?style=flat&logo=render&color=46E3B7)
