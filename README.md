@@ -2,15 +2,6 @@
   
 [<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&size=44&duration=3000&pause=500&color=FF6B9D&background=FFF9C4&center=true&vCenter=true&width=800&height=200&lines=🌈+Hi+there!+I'm+Lê+Đức+Thịnh+🌈" alt="Lê Đức Thịnh"/>](https://github.com/leducthinh203)
 
-
-<h1 align="center">
-  ✨ Welcome to my world ✨
-</h1>
-
-<h2 align="center">
-  💻 Code with &lt;/&gt;
-</h2>
-
 <div align="center">
   <a href="https://github.com/leducthinh203">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="80" alt="Waving Hand" style="animation: wave 1.5s infinite; transform-origin: 70% 70%;" />
@@ -32,8 +23,18 @@
   }
 </style>
 
+<h1 align="center">
+  ✨ Welcome to my world ✨
+</h1>
+
+<h2 align="center">
+  💻 Code with &lt;/&gt;
+</h2>
+
+
+
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
-  
+
   <br>
   <p>
     <img src="https://komarev.com/ghpvc/?username=leducthinh203&color=F700FF" alt="Profile Views" />
