@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&weight=600&size=44&duration=2500&pause=200&color=FF1493&background=0D1117&center=true&vCenter=true&width=800&height=200&lines=%3C%2F%3E+Lê+Đức+Thịnh+%3C%2F%3E;System.out.println(%22Hello%22);console.log(%22Hi%22)" alt="Lê Đức Thịnh"/>](https://github.com/leducthinh203)
+[<img src="https://github-readme-stats.vercel.app/api?username=leducthinh203&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=FF69B4&icon_color=FFB6C1&text_color=FFFFFF&custom_title=✨+LÊ+ĐỨC+THỊNH+✨" alt="Lê Đức Thịnh"/>](https://github.com/leducthinh203)
 
   <h1>🌌 Welcome to my Github!</h1>
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
