@@ -2,7 +2,7 @@
 
   <img src="https://img.shields.io/badge/Hello%2C%20L%C3%AA%20%C4%90%E1%BB%A9c%20Th%E1%BB%8Bnh-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
-  <h1>🌌 Welcome to my universe!</h1>
+  <h1>🌌 Welcome to my Github!</h1>
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
   
   <br>
