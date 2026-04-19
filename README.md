@@ -6,7 +6,10 @@
 <h1 align="center">
   ✨ Welcome to my world ✨
 </h1>
-
+<!-- Icon GIF vẫy tay từ nguồn khác -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Waving Hand" />
+</div>
 <h2 align="center">
   💻 Code with &lt;/&gt;
 </h2>
