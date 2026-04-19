@@ -1,12 +1,2 @@
-const thinh = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+Hi!Waving HandI'm Caio!
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/7832e976-3ed3-466f-91ca-7e11c27ca6a3" />
