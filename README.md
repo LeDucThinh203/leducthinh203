@@ -1,7 +1,20 @@
-<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> I'm Lê Đức Thịnh!</h1> 
-<div align="center"> 
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="70%"> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/> 
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Hello%2C%20L%C3%AA%20%C4%90%E1%BB%A9c%20Th%E1%BB%8Bnh-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
+
+  <h1>🌌 Welcome to my universe!</h1>
+  <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
+  
+  <br>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=leducthinh203&color=F700FF" alt="Profile Views" />
+  </p>
+  
 </div>
+
+---
+
+### 💻 About Me
 
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
@@ -15,7 +28,7 @@
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Render](https://img.shields.io/badge/Deployment-Render-informational?style=flat&logo=render&color=46E3B7)
 
-## ├──📂 Links
+### 📧 Connect with Me
 
 ```bash
 > Connect with me:
@@ -24,19 +37,6 @@
 > email     → leducthinh203@gmail.com
 ```
 <p> <a href="https://webshop123.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/-Website-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00FF66" /> </a> <a href="mailto:leducthinh203@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF66" /> </a> <a href="https://www.linkedin.com/in/thinh-le-duc-2685b6403/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" /> </a> </p>
-
-## ├──📂About me
-
-```yaml
-name: Thịnh
-nickname: Thịnh Wolf
-stack: Full Stack Development
-location: Hồ Chí Minh
-interests:
-  - Build up modern systems
-  - Make efficient APIs
-  - Develop functional and responsives interfaces
-```
 
 ## ├──📂Activity 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=leducthinh203&theme=minimal&hide_border=true&bg_color=0d1117&color=00FF66&line=00FF66&point=00FF66" width="100%"/>
