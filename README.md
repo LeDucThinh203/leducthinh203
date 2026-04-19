@@ -17,7 +17,6 @@
 ### 💻 About Me
 <div align="center">
 
-  
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
@@ -50,7 +49,7 @@
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Render](https://img.shields.io/badge/Deployment-Render-informational?style=flat&logo=render&color=46E3B7)
 
-
+</div>
 
 ### 📧 Connect with Me
 
