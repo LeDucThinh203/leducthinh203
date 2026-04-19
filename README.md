@@ -2,14 +2,14 @@
   
 [<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&size=44&duration=3000&pause=500&color=FF6B9D&background=FFF9C4&center=true&vCenter=true&width=800&height=200&lines=🌈+Hi+there!+I'm+Lê+Đức+Thịnh+🌈" alt="Lê Đức Thịnh"/>](https://github.com/leducthinh203)
 
-<div align="left" style="display: flex; align-items: center; gap: 12px;">
-  <a href="https://github.com/leducthinh203">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" alt="Waving Hand" style="animation: wave 1.5s infinite; transform-origin: 70% 70%;" />
-  </a>
-  <a href="https://github.com/leducthinh203" style="text-decoration: none; font-size: 28px; font-weight: bold;">
-    <span style="color: #00FF66;">GITHUB</span>
-    <span style="color: white;"> LEDUCTHINH203</span>
-  </a>
+<div align="left">
+  <img 
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" 
+    width="60" 
+    style="animation: wave 1.5s infinite; transform-origin: 70% 70%; cursor: pointer;"
+    title="🔗 Click để copy: https://github.com/leducthinh203"
+    onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Đã copy GitHub link!')"
+  />
 </div>
 
 <style>
