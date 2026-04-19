@@ -111,7 +111,7 @@
 <div align="center">
 
   <!-- 🏆 TROPHIES (clean + stable theme) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=leducthinh203&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=leducthinh203&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF66&line=00FF66&point=00FF66" width="100%"/>
 
   <br><br>
 
