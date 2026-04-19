@@ -4,15 +4,15 @@
 </div>
 
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
-    <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied: github.com/leducthinh203'); return false;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" title="Click to copy GitHub link" />
+  <p>
+    <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied!'); return false;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" style="vertical-align: middle;" />
     </a>
-    <h1 style="margin: 0; display: inline-block;">Welcome to my world</h1>
-    <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied: github.com/leducthinh203'); return false;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" title="Click to copy GitHub link" />
+    <span style="font-size: 32px; font-weight: bold; vertical-align: middle;">Welcome to my world</span>
+    <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied!'); return false;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" style="vertical-align: middle;" />
     </a>
-  </div>
+  </p>
   
   <h2>💻 Code with &lt;/&gt;</h2>
   
