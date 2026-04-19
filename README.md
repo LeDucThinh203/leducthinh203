@@ -2,7 +2,7 @@
 
 [<img src="https://raw.githubusercontent.com/leducthinh203/leducthinh203/master/intro.gif" alt="👋 Hi there! I'm Lê Đức Thịnh" title="👋 Hi there! I'm Lê Đức Thịnh"/>](https://github.com/leducthinh203)
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=leducthinh203.leducthinh203&color=00cf00)
+
 
   <h1>🌌 Welcome to my Github!</h1>
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
