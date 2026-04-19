@@ -71,8 +71,12 @@
 ```
 <p> <a href="https://webshop123.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/-Website-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00FF66" /> </a> <a href="mailto:leducthinh203@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF66" /> </a> <a href="https://www.linkedin.com/in/thinh-le-duc-2685b6403/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" /> </a> </p>
 
+---
+
 ### 📊 GitHub Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=leducthinh203&theme=minimal&hide_border=true&bg_color=0d1117&color=00FF66&line=00FF66&point=00FF66" width="100%"/>
+
+---
 
 ###   📂Portfolio
 
@@ -100,6 +104,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </div>
+
+---
 
 
 ### 🐍 Fun Fact: Commit Snake
