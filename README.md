@@ -4,15 +4,15 @@
 </div>
 
 <div align="center">
-  <p>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin: 20px 0;">
     <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied!'); return false;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" style="vertical-align: middle;" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" />
     </a>
-    <span style="font-size: 46px; font-weight: bold; vertical-align: middle;">Welcome to my world</span>
+    <span style="font-size: 50px; font-weight: bold;">Welcome to my world</span>
     <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied!'); return false;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" style="vertical-align: middle;" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" />
     </a>
-  </p>
+  </div>
   
   <h2>💻 Code with &lt;/&gt;</h2>
   
