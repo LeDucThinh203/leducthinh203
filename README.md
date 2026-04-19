@@ -11,9 +11,9 @@
 ![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-informational?style=flat&logo=springboot&color=6DB33F)
 ![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&color=239120)
 ![ASP.NET Core](https://img.shields.io/badge/Framework-ASP.NET%20Core-informational?style=flat&logo=dotnet&color=512BD4)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
 ![Netlify](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+![Render](https://img.shields.io/badge/Deployment-Render-informational?style=flat&logo=render&color=46E3B7)
 
 ## ├──📂 Links
 
