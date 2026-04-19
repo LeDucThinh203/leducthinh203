@@ -3,17 +3,19 @@
 [<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&size=44&duration=3000&pause=500&color=FF6B9D&background=FFF9C4&center=true&vCenter=true&width=800&height=200&lines=🌈+Hi+there!+I'm+Lê+Đức+Thịnh+🌈" alt="Lê Đức Thịnh"/>](https://github.com/leducthinh203)
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <div style="flex: 0 0 auto;">
-    <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied: github.com/leducthinh203'); return false;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="60" title="Click to copy GitHub link" />
-    </a>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <h1 style="margin: 0;">✨ Welcome to my world ✨</h1>
-  </div>
-  <div style="flex: 0 0 auto; width: 60px;"></div>
-</div>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="60" align="left">
+      <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied: github.com/leducthinh203'); return false;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="60" title="Click to copy GitHub link" />
+      </a>
+    </td>
+    <td align="center">
+      <h1 style="margin: 0;">✨ Welcome to my world ✨</h1>
+    </td>
+    <td width="60"></td>
+   </tr>
+</table>
 
 <h2 align="center">
   💻 Code with &lt;/&gt;
