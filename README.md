@@ -8,7 +8,7 @@
     <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied!'); return false;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" style="vertical-align: middle;" />
     </a>
-    <span style="font-size: 60px; font-weight: bold; vertical-align: middle;">Welcome to my world</span>
+    <span style="font-size: 90px; font-weight: bold; vertical-align: middle;">Welcome to my world</span>
     <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied!'); return false;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" style="vertical-align: middle;" />
     </a>
