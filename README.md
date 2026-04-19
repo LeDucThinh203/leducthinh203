@@ -6,14 +6,31 @@
 <h1 align="center">
   ✨ Welcome to my world ✨
 </h1>
-<!-- Icon GIF vẫy tay từ nguồn khác -->
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Waving Hand" />
-</div>
+
 <h2 align="center">
   💻 Code with &lt;/&gt;
 </h2>
 
+<div align="center">
+  <a href="https://github.com/leducthinh203">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="80" alt="Waving Hand" style="animation: wave 1.5s infinite; transform-origin: 70% 70%;" />
+  </a>
+  <br/>
+  <a href="https://github.com/leducthinh203">
+    <img src="https://img.shields.io/badge/GitHub-leducthinh203-00FF66?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<style>
+  @keyframes wave {
+    0% { transform: rotate(0deg); }
+    20% { transform: rotate(14deg); }
+    40% { transform: rotate(-8deg); }
+    60% { transform: rotate(14deg); }
+    80% { transform: rotate(-4deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
 
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
   
