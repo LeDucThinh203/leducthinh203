@@ -1,7 +1,6 @@
 <div align="center">
 
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lê%20Đức%20Thịnh&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Lê Đức Thịnh" title="Lê Đức Thịnh"/>](https://github.com/leducthinh203)
-
+[<img src="https://github-profile-trophy.vercel.app/?username=leducthinh203&theme=darkhub&no-frame=true&row=1&column=1&title=MultiLanguage" alt="Lê Đức Thịnh" title="Lê Đức Thịnh"/>](https://github.com/leducthinh203)
 
   <h1>🌌 Welcome to my Github!</h1>
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
