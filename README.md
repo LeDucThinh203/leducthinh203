@@ -110,25 +110,20 @@
 
 <div align="center">
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=leducthinh203&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
-  </a>
+  <!-- 🏆 TROPHIES (clean + stable theme) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=leducthinh203&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
+
+  <br><br>
+
+  <!-- 📊 STATS + TOP LANGS -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leducthinh203&show_icons=true&theme=dark&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&bg_color=0D1117" />
   
-  <br>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leducthinh203&layout=compact&theme=dark&hide_border=true&title_color=00FF66&text_color=FFFFFF&bg_color=0D1117" />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leducthinh203&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leducthinh203&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
-  </a>
+  <br><br>
 
-  <br>
-
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=leducthinh203&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
-  </a>
+  <!-- 🔥 STREAK -->
+  <img src="https://streak-stats.demolab.com?user=leducthinh203&theme=dark&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" />
 
 </div>
 
