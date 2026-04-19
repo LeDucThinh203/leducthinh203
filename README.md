@@ -8,7 +8,7 @@
     <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied!'); return false;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" />
     </a>
-    <span style="font-size: 50px; font-weight: bold;">Welcome to my world</span>
+    <span style="font-size: 65px; font-weight: bold;">Welcome to my world</span>
     <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied!'); return false;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" />
     </a>
@@ -18,9 +18,7 @@
   
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
   
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=leducthinh203&color=00FF66" alt="Profile Views" />
-  </p>
+  
 </div>
   
 <div align="center">
