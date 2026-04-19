@@ -3,8 +3,13 @@
 [<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&size=44&duration=3000&pause=500&color=FF6B9D&background=FFF9C4&center=true&vCenter=true&width=800&height=200&lines=🌈+Hi+there!+I'm+Lê+Đức+Thịnh+🌈" alt="Lê Đức Thịnh"/>](https://github.com/leducthinh203)
 
 
-  ✨ Welcome to my world ✨<br/>
+<h1 align="center">
+  ✨ Welcome to my world ✨
+</h1>
+
+<h2 align="center">
   💻 Code with &lt;/&gt;
+</h2>
 
 
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
