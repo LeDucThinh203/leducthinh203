@@ -7,9 +7,9 @@
   <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied: github.com/leducthinh203'); return false;" style="vertical-align: middle;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="60" title="Click to copy GitHub link" />
   </a>
-  <span style="font-size: 32px; font-weight: bold; vertical-align: middle; margin-left: 15px;">
+  <h1 style="display: inline-block; vertical-align: middle; margin-left: 15px; margin-top: 0; margin-bottom: 0;">
     ✨ Welcome to my world ✨
-  </span>
+  </h1>
 </div>
 
 <h2 align="center">
