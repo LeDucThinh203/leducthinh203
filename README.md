@@ -4,19 +4,23 @@
 </div>
 
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+  <p>
     <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied!'); return false;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" style="vertical-align: middle;" />
     </a>
-    <h1 style="margin: 0; display: inline-block; vertical-align: middle;">Welcome to my world</h1>
+    <span style="font-size: 46px; font-weight: bold; vertical-align: middle;">Welcome to my world</span>
     <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied!'); return false;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" style="vertical-align: middle;" />
     </a>
-  </div>
+  </p>
   
   <h2>💻 Code with &lt;/&gt;</h2>
   
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=leducthinh203&color=00FF66" alt="Profile Views" />
+  </p>
 </div>
   
 <div align="center">
