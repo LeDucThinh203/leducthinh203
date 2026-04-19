@@ -3,25 +3,10 @@
 [<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&size=44&duration=3000&pause=500&color=FF6B9D&background=FFF9C4&center=true&vCenter=true&width=800&height=200&lines=🌈+Hi+there!+I'm+Lê+Đức+Thịnh+🌈" alt="Lê Đức Thịnh"/>](https://github.com/leducthinh203)
 
 <div align="left">
-  <img 
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" 
-    width="60" 
-    style="animation: wave 1.5s infinite; transform-origin: 70% 70%; cursor: pointer;"
-    title="🔗 Click để copy: https://github.com/leducthinh203"
-    onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Đã copy GitHub link!')"
-  />
+  <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied: github.com/leducthinh203'); return false;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="60" title="Click to copy GitHub link" />
+  </a>
 </div>
-
-<style>
-  @keyframes wave {
-    0% { transform: rotate(0deg); }
-    20% { transform: rotate(14deg); }
-    40% { transform: rotate(-8deg); }
-    60% { transform: rotate(14deg); }
-    80% { transform: rotate(-4deg); }
-    100% { transform: rotate(0deg); }
-  }
-</style>
 
 <h1 align="center">
   ✨ Welcome to my world ✨
