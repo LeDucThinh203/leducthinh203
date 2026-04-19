@@ -1,7 +1,6 @@
 <div align="center">
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Lê Đức Thịnh" title="👋 Hi there! I'm Lê Đức Thịnh"/>](https://github.com/leducthinh203)
-
+[<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=500&color=F75C7E&background=0D1117&center=true&vCenter=true&width=800&height=200&lines=Hi+there!+I'm+Lê+Đức+Thịnh" alt="👋 Hi there! I'm Lê Đức Thịnh" title="👋 Hi there! I'm Lê Đức Thịnh"/>](https://github.com/leducthinh203)
 
 
   <h1>🌌 Welcome to my Github!</h1>
