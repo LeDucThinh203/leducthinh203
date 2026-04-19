@@ -37,13 +37,13 @@ interests:
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="tJPjNz.jpg" alt="QR Code do Portfólio" width="260" />
+      <img src="./Portfilio.png" alt="QR Code Portfolio" width="260" />
     </td>
     <td align="center" width="34%">
       <p><strong>Access my portfolio!</strong></p>
       <p>
-        <a href="https://www.caiocesardev.com.br" target="_blank">
-          https://www.caiocesardev.com.br
+        <a href="https://leducthinh-blog.netlify.app/" target="_blank">
+          https://leducthinh-blog.netlify.app/
         </a>
       </p>
     </td>
@@ -53,6 +53,6 @@ interests:
   </tr>
 </table>
 
-
-
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/> </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</div>
