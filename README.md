@@ -4,14 +4,20 @@
 </div>
 
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
     <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied: github.com/leducthinh203'); return false;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" title="Click to copy GitHub link" />
     </a>
-    <h1 style="margin: 0; display: inline-block;">✨ Welcome to my world ✨</h1>
+    <h1 style="margin: 0; display: inline-block;">Welcome to my world</h1>
+    <a href="#" onclick="navigator.clipboard.writeText('https://github.com/leducthinh203'); alert('✅ Copied: github.com/leducthinh203'); return false;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" title="Click to copy GitHub link" />
+    </a>
   </div>
   
   <h2>💻 Code with &lt;/&gt;</h2>
+  
+  <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
+</div>
   
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
 </div>
