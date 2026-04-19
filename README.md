@@ -9,8 +9,8 @@
 > Connect with me:
 > website    -> [www.caiocesardev.com.br](https://webshop123.netlify.app/)
 > Portfolio  -> [@caio_feipa](https://leducthinh-blog.netlify.app/)
-> linkedin   -> [/in/caio-cesar-santos-930b3823b](https://www.linkedin.com/in/thinh-le-duc-2685b6403/)
-> email      -> leducthinh203@gmail.com
+> linkedin   -> [/in/thinh-le-duc-2685b6403](https://www.linkedin.com/in/thinh-le-duc-2685b6403/)
+> email      -> [leducthinh203@gmail.com](mailto:leducthinh203@gmail.com)
 ```
 <p> <a href="https://leducthinh-blog.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=web&logoColor=00FF66" /> </a> <a href="mailto:leducthinh203@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF66" /> </a> <a href="https://www.linkedin.com/in/thinh-le-duc-2685b6403/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" /> </a> </p>
 
