@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&weight=600&size=38&duration=4000&pause=100&color=FF6B6B&background=0D1117&center=true&vCenter=true&width=800&height=200&lines=━━━━━━━━━━━━━━━━━━━━;❤️+LÊ+ĐỨC+THỊNH+❤️;━━━━━━━━━━━━━━━━━━━━" alt="Lê Đức Thịnh"/>](https://github.com/leducthinh203)
+[<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&size=44&duration=100&pause=50&color=FFD700&background=0D1117&center=true&vCenter=true&width=800&height=200&lines=✨;Lê;Đức;Thịnh;✨" alt="Lê Đức Thịnh"/>](https://github.com/leducthinh203)
 
   <h1>🌌 Welcome to my Github!</h1>
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
