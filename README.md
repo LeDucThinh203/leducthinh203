@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="https://github-profile-trophy.vercel.app/?username=leducthinh203&theme=darkhub&no-frame=true&row=1&column=1&title=MultiLanguage" alt="Lê Đức Thịnh" title="Lê Đức Thịnh"/>](https://github.com/leducthinh203)
+[<img src="https://readme-typing-svg.herokuapp.com?font=Matrix&weight=600&size=42&duration=2000&pause=100&color=00FF00&background=0D1117&center=true&vCenter=true&width=800&height=200&lines=Hi+there!;I'm+Lê+Đức+Thịnh;Welcome+to+my+profile" alt="Lê Đức Thịnh"/>](https://github.com/leducthinh203)
 
   <h1>🌌 Welcome to my Github!</h1>
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
