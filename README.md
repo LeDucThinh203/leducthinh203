@@ -17,10 +17,10 @@
 ## ├──📂About me
 
 ```yaml
-name: Caio
-nickname: Magrelaio
+name: Thịnh
+nickname: Thịnh Wolf
 stack: Full Stack Development
-location: Brasil
+location: Hồ Chí Minh
 interests:
   - Build up modern systems
   - Make efficient APIs
@@ -28,7 +28,7 @@ interests:
 ```
 
 ## ├──📂Activity 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Magrelaio&theme=github-compact&hide_border=true&title=Magrelaio%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Magrelaio&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF66&line=00FF66&point=00FF66" width="100%"/>
 
 ## └──📂Portfolio
 
