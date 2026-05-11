@@ -119,7 +119,7 @@
 </div>
 
 ---
-```html
+
 ### 📈 GitHub Analytics & Streak
 
 <div align="center">
