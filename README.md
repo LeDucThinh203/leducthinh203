@@ -121,11 +121,11 @@
 ---
 
 
+
 ### 📈 GitHub Analytics & Streak
 
 <div align="center">
 
-  <!-- 🌟 Activity Graph -->
   <img 
     width="100%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=leducthinh203&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF66&line=00FF66&point=00FF66"
@@ -133,9 +133,18 @@
 
   <br><br>
 
-  <!-- 📊 GitHub Stats + Top Languages --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leducthinh203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leducthinh203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" /> </p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=leducthinh203&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 
-  <!-- 🔥 GitHub Streak -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leducthinh203&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+
+  <br><br>
+
   <img 
     width="70%"
     src="https://streak-stats.demolab.com?user=leducthinh203&theme=tokyonight&hide_border=true"
@@ -145,14 +154,15 @@
 
 ---
 
-
-
-
-
-
 ### 🐍 Fun Fact: Commit Snake
 
-<img src="https://github.com/leducthinh203/leducthinh203/blob/output/github-contribution-grid-snake.svg" />
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+  <img 
+    src="https://raw.githubusercontent.com/leducthinh203/leducthinh203/output/github-contribution-grid-snake.svg"
+    alt="snake animation"
+  />
+
 </div>
+
+
