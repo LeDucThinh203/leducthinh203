@@ -120,12 +120,13 @@
 
 ---
 
+
 ### 📈 GitHub Analytics & Streak
 
 <div align="center">
 
   <!-- 🌟 Activity Graph -->
-  <img
+  <img 
     width="100%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=leducthinh203&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF66&line=00FF66&point=00FF66"
   />
@@ -133,28 +134,31 @@
   <br><br>
 
   <!-- 📊 GitHub Stats -->
-  <img
+  <img 
     height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=leducthinh203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&bg_color=0D1117"
+    src="https://github-readme-stats.vercel.app/api?username=leducthinh203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
   />
 
   <!-- 💻 Top Languages -->
-  <img
+  <img 
     height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leducthinh203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00FF66&text_color=FFFFFF&bg_color=0D1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leducthinh203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
   />
 
   <br><br>
 
   <!-- 🔥 GitHub Streak -->
-  <img
+  <img 
     width="70%"
-    src="https://streak-stats.demolab.com?user=leducthinh203&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=FFFFFF&dates=AAAAAA"
+    src="https://streak-stats.demolab.com?user=leducthinh203&theme=tokyonight&hide_border=true"
   />
 
 </div>
 
 ---
+
+
+
 
 
 
