@@ -133,19 +133,7 @@
 
   <br><br>
 
-  <!-- 📊 GitHub Stats -->
-  <img 
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=leducthinh203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-  />
-
-  <!-- 💻 Top Languages -->
-  <img 
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leducthinh203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-  />
-
-  <br><br>
+  <!-- 📊 GitHub Stats + Top Languages --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leducthinh203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leducthinh203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" /> </p>
 
   <!-- 🔥 GitHub Streak -->
   <img 
